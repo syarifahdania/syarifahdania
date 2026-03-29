@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋 I'm Syarifah Dania
 
 🎓 I'm a student in Data Engineering  
@@ -16,16 +14,11 @@
 
 ---
 
-## 📌 Projects
-- 📊 Data Pipeline Project
-- 🗄️ Data Warehouse Design
-
----
 
 ## 📫 Connect with me
-- LinkedIn: (your link)
-- Email: (your email)
+- LinkedIn: (http://linkedin.com/in/syarifahdania8504/)
+- Email: (syarifahdania8504@gmail.com)
 
 ---
 
-✨ Fun fact: I love learning about how systems work and why people choose what they choose
+
