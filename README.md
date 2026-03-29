@@ -1,18 +1,19 @@
-# Hi there 👋 I'm Syarifah Dania
+# halo 👋 I'm Dania
 
-🎓 I'm a student in Data Engineering  
-🌏 Based in Malaysia  
-💡 Interested in cloud computing & big data  
-
----
-
-## 🚀 Skills
-- Python
-- SQL
-- Data Engineering
-- Cloud (AWS / Azure)
+🎓 currently in my third year 
+🌏 based in Malaysia but I'm hoping to move across countries ><
+💡 interested in cloud computing & big data  
 
 ---
+
+## 🛠️ Skills
+![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,aws)
+
+## 📈 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
 
 
 ## 📫 Connect with me
