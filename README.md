@@ -46,6 +46,9 @@
   <a href="http://linkedin.com/in/syarifahdania8504/">
     <img src="https://img.shields.io/badge/LinkedIn-F7A8B8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+      <a href="mailto:syarifahdania8504@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F7A8B8?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
