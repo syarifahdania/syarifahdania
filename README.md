@@ -4,8 +4,10 @@
 
 ---
 
-🎓 currently in my third year
+🎓 currently in my 3rd year studying computer science in UTM
+
 🌏 based in Malaysia, hoping to explore opportunities abroad •ᴗ•
+
 💡 interested in cloud computing & big data
 
 ---
