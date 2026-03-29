@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=F7A8B8&center=true&lines=Hi+%F0%9F%91%8B+I'm+Dania;Data+Engineering+Student;Loves+soft+aesthetics+%F0%9F%8C%B8" />
+  <img src="https://readme-typing-svg.demolab.com?color=F7A8B8&center=true&lines=Hi+%F0%9F%91%8B+I'm+Dania+%F0%9F%8C%B8" />
 </p>
 
 ---
-
-# 🎀 bonjour 👋 I'm Dania ツ
 
 🎓 currently in my third year
 🌏 based in Malaysia, hoping to explore opportunities abroad •ᴗ•
