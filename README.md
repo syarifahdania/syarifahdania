@@ -23,7 +23,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c++,python,mysql,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,aws,sap" />
 </p>
 
 ---
