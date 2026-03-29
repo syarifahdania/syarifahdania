@@ -10,15 +10,17 @@
 ![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,aws)
 
 ## 📈 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=syarifahdania&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=syarifahdania&theme=tokyonight)
 
 
 ## 📫 Connect with me
 - LinkedIn: (http://linkedin.com/in/syarifahdania8504/)
 - Email: (syarifahdania8504@gmail.com)
+
+  
 
 ---
 
