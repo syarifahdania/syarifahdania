@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**syarifahdania/syarifahdania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Syarifah Dania
 
-Here are some ideas to get you started:
+🎓 I'm a student in Data Engineering  
+🌏 Based in Malaysia  
+💡 Interested in cloud computing & big data  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- Python
+- SQL
+- Data Engineering
+- Cloud (AWS / Azure)
+
+---
+
+## 📌 Projects
+- 📊 Data Pipeline Project
+- 🗄️ Data Warehouse Design
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (your link)
+- Email: (your email)
+
+---
+
+✨ Fun fact: I love learning about how systems work and why people choose what they choose
