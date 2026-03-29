@@ -1,25 +1,54 @@
-# halo 👋 I'm Dania
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?color=F7A8B8&center=true&lines=Hi+%F0%9F%91%8B+I'm+Dania;Data+Engineering+Student;Loves+soft+aesthetics+%F0%9F%8C%B8" />
+</p>
 
-🎓 currently in my third year 
-🌏 based in Malaysia but I'm hoping to move across countries ( ˶ˆᗜˆ˵ )
-💡 interested in cloud computing & big data  
+---
+
+# 🎀 bonjour 👋 I'm Dania ツ
+
+🎓 currently in my third year
+🌏 based in Malaysia, hoping to explore opportunities abroad •ᴗ•
+💡 interested in cloud computing & big data
+
+---
+
+## 🌸 About Me
+
+* 🫧 learning more about data engineering & real-world systems
+* ☁️ curious about cloud technologies and scalable data solutions
+* 💭 I enjoy understanding how systems work and why people make certain choices
 
 ---
 
 ## 🛠️ Skills
-![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,aws)
 
-## 🔥 Streak
-(I need to get better in keeping the fire sparks)
-![GitHub Streak](https://streak-stats.demolab.com/?user=syarifahdania&theme=tokyonight)
-
-
-## 📫 Connect with me
-- LinkedIn: (http://linkedin.com/in/syarifahdania8504/)
-- Email: (syarifahdania8504@gmail.com)
-
-![Snake animation](https://github.com/syarifahdania/syarifahdania/blob/output/github-contribution-grid-snake.svg)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c++,python,mysql,git,github,aws" />
+</p>
 
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=syarifahdania&theme=rose_pine&hide_border=true" />
+</p>
+
+<p align="center">
+  <i>trying to not lose my streak </i>
+</p>
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="http://linkedin.com/in/syarifahdania8504/">
+    <img src="https://img.shields.io/badge/LinkedIn-F7A8B8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 
 
